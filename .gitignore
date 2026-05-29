@@ -86,19 +86,11 @@ bld/
 *.plg
 *.bsc
 *.aps
-*.res
 *.rc2
 *.manifest
 *.dep
 *.log
 
-# Resource files
-*.ico
-*.cur
-*.bmp
-*.dlg
-*.rc2
-*.rct
 
 # Code analysis
 *.xml
@@ -110,7 +102,6 @@ bld/
 *.bak
 *.tmp
 *.temp
-*~
 
 # NuGet Packages
 packages/
